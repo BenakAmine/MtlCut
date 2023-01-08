@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222377108834",
+    "project_id": "mtlcut-e97a9",
+    "storage_bucket": "mtlcut-e97a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222377108834:android:af61405dbcc101c99ff83b",
+        "android_client_info": {
+          "package_name": "com.example.mtlcut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222377108834-f39k0grp9qiu4pfqh2adq1qmfvoo75pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSDiEos3-LO14iqPzE3WPRkEYR4vuF18k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222377108834-f39k0grp9qiu4pfqh2adq1qmfvoo75pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
